@@ -1,11 +1,14 @@
 ### How to use:
+```
+npm install --save https://github.com/SilvaLA59/exceltojson.git
+```
 
 ```
 var excel = require('exceltojson');
 
 var opts = {
     filePath: __dirname,
-    fileName: 'export.xlsx'
+    fileName: 'File.xlsx'
 }
 
 excel.parse(opts).then(val =>{
