@@ -9,6 +9,6 @@
   "author": "Leonardo Alves",
   "license": "ISC",
   "dependencies": {
-    "exceltojson": "git+https://github.com/SilvaLA59/exceltojson.git"
+    "excel-parse-json": "^1.0.0"
   }
 }

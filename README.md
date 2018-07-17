@@ -1,10 +1,10 @@
 ### How to use:
 ```
-npm install --save https://github.com/SilvaLA59/exceltojson.git
+npm install --save excel-parse-json
 ```
 
 ```
-var excel = require('exceltojson');
+var excel = require('excel-parse-json');
 
 var opts = {
     filePath: __dirname,

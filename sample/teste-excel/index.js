@@ -1,4 +1,4 @@
-var excel = require('exceltojson');
+var excel = require('excel-parse-json');
 
 var opts = {
     filePath: './excel',
