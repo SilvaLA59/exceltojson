@@ -1,9 +1,9 @@
 ### How to use:
-```
+```javascript
 npm install --save excel-parse-json
 ```
 
-```
+```javascript
 var excel = require('excel-parse-json');
 
 var opts = {
