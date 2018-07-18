@@ -9,6 +9,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SilvaLA59/exceltojson.git"
+  },
   "keywords": [
     "excel",
     "xls",
@@ -18,7 +22,7 @@
     "exceltojson"
   ],
   "author": "Leonardo Alves",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "fs": "0.0.1-security",
     "node-xlsx": "0.12.1"
