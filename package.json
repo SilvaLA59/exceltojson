@@ -1,6 +1,6 @@
 {
   "name": "excel-parse-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NodeJS read excel file and parse to a Json object",
   "main": "lib/index.js",
   "directories": {
@@ -19,7 +19,8 @@
     "xlsx",
     "parse",
     "json",
-    "exceltojson"
+    "exceltojson",
+    "EXCEL to JSON"
   ],
   "author": "Leonardo Alves",
   "license": "MIT",
